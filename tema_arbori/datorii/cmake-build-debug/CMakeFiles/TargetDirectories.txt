@@ -1,0 +1,3 @@
+D:/fac/SEM II/SD/tema_arborideintervale/datorii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/fac/SEM II/SD/tema_arborideintervale/datorii/cmake-build-debug/CMakeFiles/datorii.dir
+D:/fac/SEM II/SD/tema_arborideintervale/datorii/cmake-build-debug/CMakeFiles/edit_cache.dir
