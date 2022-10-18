@@ -1,0 +1,3 @@
+D:/fac/SEM II/SD/tema_stive_cozi_deque/paranteze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/fac/SEM II/SD/tema_stive_cozi_deque/paranteze/cmake-build-debug/CMakeFiles/paranteze.dir
+D:/fac/SEM II/SD/tema_stive_cozi_deque/paranteze/cmake-build-debug/CMakeFiles/edit_cache.dir

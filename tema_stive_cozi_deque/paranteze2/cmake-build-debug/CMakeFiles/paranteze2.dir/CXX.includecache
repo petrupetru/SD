@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/fac/SEM II/SD/tema_stive_cozi_deque/paranteze2/main.cpp
+iostream
+-
+fstream
+-
+stack
+-
+

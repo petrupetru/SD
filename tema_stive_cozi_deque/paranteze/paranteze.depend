@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616862500 source:d:\fac\sem ii\sd\tema_stive_cozi_deque\paranteze\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/fac/SEM II/SD/tema_hash_heap/sea/main.cpp
+iostream
+-
+fstream
+-
+algorithm
+-
+cmath
+-
+iomanip
+-
+vector
+-
+
